@@ -5,13 +5,13 @@ ChatGPT UI is an unofficial ChatGPT web client. It supports multiple users, mult
 
 This project consists of two parts, the client-side and the server-side:
 
-- Client-side, based on [Nuxt](https://nuxt.com/), project address: [https://github.com/assassin990123/chatgpt-ui](https://github.com/assassin990123/chatgpt-ui)
-- Server-side, based on [Django](https://djangoproject.com/), project address: [https://github.com/assassin990123/chatgpt-ui-server](https://github.com/assassin990123/chatgpt-ui-server)
+- Client-side, based on [Nuxt](https://nuxt.com/), project address: [https://github.com/pandablue0809/chatgpt-ui](https://github.com/pandablue0809/chatgpt-ui)
+- Server-side, based on [Django](https://djangoproject.com/), project address: [https://github.com/pandablue0809/chatgpt-ui-server](https://github.com/pandablue0809/chatgpt-ui-server)
 
 
 ## Features
 
-### Client-side
+### Client-sidehttps://github.com/pandablue0809
 - User system, supporting user registration, login, password modification, and more.
 - Multi-language user interface, supporting multiple languages.
 - Persistent data storage, supporting Mysql, PostgreSQL, and Sqlite databases.
